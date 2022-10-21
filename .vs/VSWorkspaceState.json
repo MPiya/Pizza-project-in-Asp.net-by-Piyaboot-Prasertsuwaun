@@ -3,11 +3,14 @@
     "",
     "\\RazoerPizzeria",
     "\\RazoerPizzeria\\Models",
-    "\\RazoerPizzeria\\Models\\Data",
     "\\RazoerPizzeria\\Pages",
     "\\RazoerPizzeria\\Pages\\Checkout",
-    "\\RazoerPizzeria\\Pages\\Forms"
+    "\\RazoerPizzeria\\Pages\\Forms",
+    "\\RazoerPizzeria\\Pages\\Shared",
+    "\\RazoerPizzeria\\Properties",
+    "\\RazoerPizzeria\\wwwroot",
+    "\\RazoerPizzeria\\wwwroot\\css"
   ],
-  "SelectedNode": "\\RazoerPizzeria\\RazoerPizzeria.csproj",
+  "SelectedNode": "\\RazoerPizzeria.sln",
   "PreviewInSolutionExplorer": false
 }
