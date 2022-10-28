@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\RazoerPizzeria",
+    "\\RazoerPizzeria\\bin",
+    "\\RazoerPizzeria\\Migrations",
     "\\RazoerPizzeria\\Models",
+    "\\RazoerPizzeria\\obj",
     "\\RazoerPizzeria\\Pages",
     "\\RazoerPizzeria\\Pages\\Checkout",
-    "\\RazoerPizzeria\\Pages\\Forms",
     "\\RazoerPizzeria\\Pages\\Shared",
-    "\\RazoerPizzeria\\Properties",
-    "\\RazoerPizzeria\\wwwroot",
-    "\\RazoerPizzeria\\wwwroot\\css"
+    "\\RazoerPizzeria\\Properties"
   ],
-  "SelectedNode": "\\RazoerPizzeria.sln",
+  "SelectedNode": "\\RazoerPizzeria\\Pages\\Forms\\CustomPizza.cshtml",
   "PreviewInSolutionExplorer": false
 }
